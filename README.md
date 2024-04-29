@@ -1,4 +1,12 @@
- 
+To build:
+
+```bash
+export ALLOW_MISSING_DEPENDENCIES=true
+. build/envsetup.sh
+lunch twrp_peym00-eng
+mka recoveryimage
+```
+
 ```
 #
 # Copyright (C) 2024 The Android Open Source Project
