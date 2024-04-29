@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=pepm00
+DEVICE=peym00
 VENDOR=oplus
 
 # Load extract_utils and do some sanity checks
