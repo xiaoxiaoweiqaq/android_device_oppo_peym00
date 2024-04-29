@@ -14,7 +14,7 @@ PRODUCT_USE_DYNAMIC_PARTITIONS := true # 动态分区# Soong namespaces
 PRODUCT_SOONG_NAMESPACES +=$(DEVICE_PATH)#
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_pepm00.mk
+    $(LOCAL_DIR)/twrp_peym00.mk
 
 COMMON_LUNCH_CHOICES := \
     twrp_peym00-user \
