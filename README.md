@@ -1,4 +1,4 @@
-To build:
+# To build:
 
 ```bash
 export ALLOW_MISSING_DEPENDENCIES=true
@@ -6,6 +6,7 @@ export ALLOW_MISSING_DEPENDENCIES=true
 lunch twrp_peym00-eng
 mka recoveryimage
 ```
+## Copyright
 
 ```
 #
